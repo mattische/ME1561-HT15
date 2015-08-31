@@ -18,7 +18,7 @@ Modifiera/lägg till i källkoden i filen <code>map.html</code> så att en marke
 När man klickar på en marker ska en inforuta visas med personens namn och en liten bild på personen.
 
 
-##### Tips: 
+##### Tips:
 öppna map.html i din webbläsare. Testa att ändra i koden och se vad som händer...
 Försök förstå koden i filen..
 Vad betyder och har t ex följande för funktion:
@@ -42,7 +42,7 @@ map = new google.maps.Map(document.getElementById("Map"), {
 Samarbeta! Hjälp varandra!
 För att lösa den här övningen behöver alla samrabeta, och förhoppningsvis lära känna varandra lite bättre....
 
-Informationskällor om html/css/javascript är 
+Informationskällor om html/css/javascript är
 - http://www.w3schools.com/
 - https://www.codecademy.com/
 - http://www.w3schools.com/googleapi/google_maps_basic.asp
@@ -57,7 +57,7 @@ Använd en editor för att skriva/modifiera s.k källkod. Två tips (om du inte 
 
 ### Del 2 - ställen i Karlshamn
 Lägg till markörer för olika ställen i Karlshamn. T ex restauranger, vart kåren ligger, affärer etc.
-I inforutan som visas när ma klickar på dem, ska förutom namnet och kort info om stället även visas en länk till 
+I inforutan som visas när ma klickar på dem, ska förutom namnet och kort info om stället även visas en länk till
 ställets egna hemsida. När man klickar på den länken ska hemsidan öppnas i en ny sida.
 
 ### Del 3 - bättre sida
@@ -85,6 +85,11 @@ Eller varför inte mäta sträckor eller visa vägar mellan dig och andra klassk
 ### Del 7 - location
 Plotta ut din egna position i kartan, dvs där du är just nu...
 
+Tips:
+av säkerhetsskäl tillåter förmodligen inte din webbläsare att din position läses från localhost, dvs lokalt från din dator.
+Din kod behöver exekveras på en webbserver eller av en mjukvara som simulerar en webbserver...
+Lösningen på detta är många; webbhotell, ngrok, localtunnel, SimpleHTTPServer, Mamp, Wamp, VPS etc etc. Hitta en.
+
 ### Del 8 - jQuery
 I head-sektionen i map.html hämtas ett script in som heter något med jquery?
 Vad är det? Undersök och försök göra något med det, exempelvis effekter.
@@ -100,6 +105,3 @@ Detsamma gäller vår css. Här är en länk för det: https://jigsaw.w3.org/css
 
 
 Det kommer mer...... stay tuned
-
-
-
