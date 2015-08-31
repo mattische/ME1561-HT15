@@ -89,6 +89,16 @@ Plotta ut din egna position i kartan, dvs där du är just nu...
 I head-sektionen i map.html hämtas ett script in som heter något med jquery?
 Vad är det? Undersök och försök göra något med det, exempelvis effekter.
 
+
+### Del 9 - validering
+Det är viktigt att man skriver korrekt formaterad html och css (javascript också för den delen), detta bl a för att ens sidor ska visas och fungera korrekt i olika webbläsare.
+För att kontrollera sina sidor och den html man har skrivit så kan man validera sina dokument.
+Använd W3C's html-validator och korrigera eventuella fel tills allt är frid och fröjd.
+Här är en länk: https://validator.w3.org/
+Detsamma gäller vår css. Här är en länk för det: https://jigsaw.w3.org/css-validator/
+
+
+
 Det kommer mer...... stay tuned
 
 
