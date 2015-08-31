@@ -77,6 +77,17 @@ Nu kommer det svåra - se till att få tag i alla dina klasskamraters egna sidor
 till dennas sida finnas med och visa just den kamrates egna sida....
 
 
+### Del 6 - Google maps API
+Undersök Google Maps API:t. API:er är något du kommer att jobba med mycket framöver och det är bra att redan nu börja titta på ett. Mer information om Google's API finns bland länkarna ovan.
+Använd API:t och ändra/lägg till/ gör något. Exempelvis förändra markörerna till andra symboler/ikoner.
+Eller varför inte mäta sträckor eller visa vägar mellan dig och andra klasskamrater?
+
+### Del 7 - location
+Plotta ut din egna position i kartan, dvs där du är just nu...
+
+### Del 8 - jQuery
+I head-sektionen i map.html hämtas ett script in som heter något med jquery?
+Vad är det? Undersök och försök göra något med det, exempelvis effekter.
 
 Det kommer mer...... stay tuned
 
